@@ -1,0 +1,5 @@
+Trabalho feito por Lucas Lagôa e Larissa Viana (com colaboração de Lucas Felix e João Caetano)
+	* Fora feito um trabalho do zero, baseado nas anotações de sala de aula contudo tivemos um problema que a função all paths não está retornando realmente todos os caminhos possível e a função que implementamos para o ford fulkerson necessita da mesma. Caso retornasse de forma correta teríamos corretamente os valores. 
+	* Está sendo enviado um algoritmo retirado da internet que foi usado como base para o entendimento do trabalho, o mesmo funciona corretamente. O link para acesso do mesmo está em: 
+		https://github.com/bigbighd604/Python/blob/master/graph/Ford-Fulkerson.py
+	*Ressalta-se que fizemos algumas modificações no mesmo 
